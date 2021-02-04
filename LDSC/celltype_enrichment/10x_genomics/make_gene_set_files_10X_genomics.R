@@ -1,9 +1,9 @@
 # TITLE:	make_gene_set_files.R
 # ABOUT:	Script to prepare LDSC annotation data by creating gene set files for sub-annotations.
 # INPUT:	mean_expr_path: Mean gene expression data for cell types.
-# INPUT:    human_gene_reference_path: Reference file for human genes (hg19), including chromosomes, gene names and gene IDs.
+# INPUT:    human_gene_reference_path: Reference file for human genes v33, including chromosomes, gene names and gene IDs.
 # AUTHOR:	Koen Rademaker, adapted by Mitchell Olislagers
-# DATE:		31 July 2019
+# DATE:		19 February 2020
 
 ########## Load required libraries ##########
 library(MAGMA.Celltyping)
