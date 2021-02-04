@@ -1,7 +1,7 @@
 !#bin/bash
 
 # Goal: Munge GWAs summary statistics for LDSC analyses
-# Required:	GWAS summary statistics files, working LDSC environment
+# Required: GWAS summary statistics files, working LDSC environment
 # By: Mitchell Olislagers
 # Last updated: Feb 10 2020
 
