@@ -6,7 +6,7 @@
 # INPUT:	1000 Genomes Project phase 3 baseline model LD scores, regression weights, allele frequencies (see README)
 # OUTPUT:       Partitioned h2 output files
 # AUTHOR:       Koen Rademaker
-# DATE:         31 July 2019
+# DATE:         20 February 2020
 
 
 ########## Initialize script ##########

@@ -3,7 +3,7 @@
 # INPUT:	mean_expr_path: Mean gene expression data for cell types.
 # INPUT:    human_gene_reference_path: Reference file for human genes (hg19), including chromosomes, gene names and gene IDs.
 # AUTHOR:	Koen Rademaker, adapted by Mitchell Olislagers
-# DATE:		31 July 2019
+# DATE:		20 February 2020
 
 ########## Load required libraries ##########
 library(MAGMA.Celltyping)
