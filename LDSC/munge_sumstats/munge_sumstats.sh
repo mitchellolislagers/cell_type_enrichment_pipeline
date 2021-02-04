@@ -11,8 +11,6 @@ ldsc_dir=/hpc/hers_en/molislagers/LDSC/ldsc
 sumstats_dir=/hpc/hers_en/molislagers/LDSC/summary_statistics
 ref_dir=/hpc/hers_en/molislagers/LDSC/ref_data/regression
 munged_dir=${sumstats_dir}/munged_sumstats
-h2_dir=/hpc/hers_en/molislagers/LDSC/heritability
-rg_dir=/hpc/hers_en/molislagers/LDSC/bivariate_correlations
 
 conda activate ldsc
 
@@ -380,13 +378,3 @@ cd ${sumstats_dir}/behaviour/neuroticism
 gunzip sumstats_neuroticism_ctg_format.txt.gz
 #Munge neuroticism
 python ${ldsc_dir}/munge_sumstats.py --sumstats ${sumstats_dir}/behaviour/neuroticism/sumstats_neuroticism_ctg_format.txt --out ${munged_dir}/neuroticism --merge-alleles ${ref_dir}/w_hm3.snplist --snp RSID --a1 A1 --a2 A2 --frq EAF_UKB --info INFO_UKB --ignore SNP
-
-
-#H2
-python ${ldsc_dir}/ldsc.py --h2 ${munged_dir}/SCZ.sumstats.gz --ref-ld-chr ${ref_dir}/eur_ref_ld_chr/ --w-ld-chr ${ref_dir}/eur_w_ld_chr/ --out ${h2_dir}/scz_h2
-python ${ldsc_dir}/ldsc.py --h2 ${munged_dir}/AN.sumstats.gz --ref-ld-chr ${ref_dir}/eur_ref_ld_chr/ --w-ld-chr ${ref_dir}/eur_w_ld_chr/ --out ${h2_dir}/an_h2
-python ${ldsc_dir}/ldsc.py --h2 ${munged_dir}/ADHD.sumstats.gz --ref-ld-chr ${ref_dir}/eur_ref_ld_chr/ --w-ld-chr ${ref_dir}/eur_w_ld_chr/ --out ${h2_dir}/adhd_h2
-
-
-#Genetic correlations
-python ${ldsc_dir}/ldsc.py --rg ${munged_dir}/ADHD.sumstats.gz,${munged_dir}/AN.sumstats.gz,${munged_dir}/anxiety.sumstats.gz,${munged_dir}/ASD.sumstats.gz --ref-ld-chr ${ref_dir}/eur_w_ld_chr/ --w-ld-chr ${ref_dir}/eur_w_ld_chr/ --out ${rg_dir}/an_scz_adhd
