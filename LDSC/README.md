@@ -11,16 +11,16 @@
 ```source activate ldsc```
 
 # (3) Munge sum stats
-- munge_sumstats.sh
+- ```munge_sumstats.sh```
 
 # (4) Heritability
-- calculate_and_collect_h2_phase3.sh
+- ```calculate_and_collect_h2_phase3.sh```
 
 # (5) Bivariate correlations
-- calculate_and_collect_rg_phase3.sh
+- ```calculate_and_collect_rg_phase3.sh```
 
 # (6) order of scripts (found in respective folders for KI level 1, KI level 2 and 10X genomics
-- make_gene_set_files
-- make_annotation_files
-- calculate_ld_scores
-- partition_h2
+- ```make_gene_set_files```
+- ```make_annotation_files```
+- ```calculate_ld_scores```
+- ```partition_h2```
