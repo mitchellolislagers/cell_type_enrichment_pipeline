@@ -2,6 +2,7 @@
 
 ### (1) Prepare summary statistics
 Because summary statistics are not uniformly released, preparation differs per summary statistics.
+
 ```prepare_MAGMA_sumstats.sh```
 
 ### (2) (optional) Sensitivity analyses (HapMap3 restriction and MHC exlcusion)
