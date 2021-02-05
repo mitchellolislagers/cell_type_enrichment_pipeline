@@ -5,7 +5,6 @@
 # By: Mitchell Olislagers
 # Last updated: Feb 10 2020
 
-qlogin -l h_rt=08:00:00 
 ## Set up environment and variables
 ldsc_dir=/hpc/hers_en/molislagers/LDSC/ldsc
 sumstats_dir=/hpc/hers_en/molislagers/LDSC/summary_statistics
