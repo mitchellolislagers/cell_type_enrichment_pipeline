@@ -30,6 +30,6 @@ Follow the [steps](https://github.com/mitchellolislagers/cell_type_enrichment_pi
 - For DEPICT analyses, summary statistics from the [MAGMA summary statistics preparation](https://github.com/mitchellolislagers/cell_type_enrichment_pipeline/blob/master/MAGMA/sum_stats/prepare_MAGMA_sumstats.sh) can be used.
 
 ### FUMA
-FUMA was run on the [web-based platform](https://fuma.ctglab.nl/). 
+FUMA was run on their [web-based platform](https://fuma.ctglab.nl/). 
 - Summary statistics from the [MAGMA summary statistics preparation](https://github.com/mitchellolislagers/cell_type_enrichment_pipeline/blob/master/MAGMA/sum_stats/prepare_MAGMA_sumstats.sh) can be used as input for the [SNP2GENE](https://fuma.ctglab.nl/snp2gene) process.
 - The gene analysis result can then be used as input for the [Cell type](https://fuma.ctglab.nl/celltype) process.
