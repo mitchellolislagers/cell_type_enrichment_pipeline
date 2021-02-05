@@ -1,0 +1,24 @@
+astrocytes_ependymal;astrocytes_ependymal
+Dopaminergic Adult;Dopaminergic Adult
+Dopaminergic Neuroblast;Dopaminergic Neuroblast
+Embryonic Dopaminergic Neuron;Embryonic Dopaminergic Neuron
+Embryonic GABAergic Neuron;Embryonic GABAergic Neuron
+Embryonic midbrain nucleus neurons;Embryonic midbrain nucleus neurons
+endothelial-mural;endothelial-mural
+Hypothalamic Dopaminergic Neurons;Hypothalamic Dopaminergic Neurons
+Hypothalamic GABAergic Neurons;Hypothalamic GABAergic Neurons
+Hypothalamic Glutamatergic Neurons;Hypothalamic Glutamatergic Neurons
+interneurons;interneurons
+Medium Spiny Neuron;Medium Spiny Neuron
+microglia;microglia
+Neural Progenitors;Neural Progenitors
+Neuroblasts;Neuroblasts
+Oligodendrocyte Precursor;Oligodendrocyte Precursor
+Oligodendrocytes;Oligodendrocytes
+Oxytocin and Vasopressin Expressing Neurons;Oxytocin and Vasopressin Expressing Neurons
+pyramidal CA1;pyramidal CA1
+pyramidal SS;pyramidal SS
+Radial glia like cells;Radial glia like cells
+Serotonergic Neuron;Serotonergic Neuron
+Striatal Interneuron;Striatal Interneuron
+Vascular Leptomeningeal Cells;Vascular Leptomeningeal Cells

@@ -1,0 +1,149 @@
+Astro1;Astro1
+Astro2;Astro2
+CA1Pyr1;CA1Pyr1
+CA1Pyr2;CA1Pyr2
+CA1PyrInt;CA1PyrInt
+CA2Pyr2;CA2Pyr2
+Choroid;Choroid
+ClauPyr;ClauPyr
+Committed oligodendrocyte precursors;Committed oligodendrocyte precursors
+Dopaminergic Adult-Substantia nigra;Dopaminergic Adult-Substantia nigra
+Dopaminergic Adult-Ventral tegmental area1;Dopaminergic Adult-Ventral tegmental area1
+Dopaminergic Adult-Ventral tegmental area2;Dopaminergic Adult-Ventral tegmental area2
+Dopaminergic Adult-Ventral tegmental area3;Dopaminergic Adult-Ventral tegmental area3
+Dopaminergic Adult-Ventral tegmental area4;Dopaminergic Adult-Ventral tegmental area4
+Dopaminergic Neuroblast;Dopaminergic Neuroblast
+Embryonic Dopaminergic Neuron 0;Embryonic Dopaminergic Neuron 0
+Embryonic Dopaminergic Neuron 1;Embryonic Dopaminergic Neuron 1
+Embryonic Dopaminergic Neuron 2;Embryonic Dopaminergic Neuron 2
+Embryonic GABAergic Neuron 1a;Embryonic GABAergic Neuron 1a
+Embryonic GABAergic Neuron 1b;Embryonic GABAergic Neuron 1b
+Embryonic GABAergic Neuron 2;Embryonic GABAergic Neuron 2
+Epend;Epend
+Hypothalamic Adcyap1; Tac1 (VMH) Neuron;Hypothalamic Adcyap1; Tac1 (VMH) Neuron
+Hypothalamic Adcyap1(VMH) Neuron;Hypothalamic Adcyap1(VMH) Neuron
+Hypothalamic Avp-high;Gal;Oxt-low Neuron;Hypothalamic Avp-high;Gal;Oxt-low Neuron
+Hypothalamic Avp-high;Oxt-low Neuron;Hypothalamic Avp-high;Oxt-low Neuron
+Hypothalamic Avp-medium Neuron;Hypothalamic Avp-medium Neuron
+Hypothalamic Calcr-high;VMAT+and-;Lhx1 (Sch) Neuron;Hypothalamic Calcr-high;VMAT+and-;Lhx1 (Sch) Neuron
+Hypothalamic Crh+and-; Lhx6;GABA (BST; MPO) Neuron;Hypothalamic Crh+and-; Lhx6;GABA (BST; MPO) Neuron
+Hypothalamic Crh+and-;GABA;Pgr15l (PVH-PVH-galo) Neuron;Hypothalamic Crh+and-;GABA;Pgr15l (PVH-PVH-galo) Neuron
+Hypothalamic Crh+and-;Gal-low (PVH) Neuron;Hypothalamic Crh+and-;Gal-low (PVH) Neuron
+Hypothalamic Dopamine; Dat;Nmur2;GABA Neuron;Hypothalamic Dopamine; Dat;Nmur2;GABA Neuron
+Hypothalamic Dopamine;Tac+and- Gad1; GABA Neuron;Hypothalamic Dopamine;Tac+and- Gad1; GABA Neuron
+Hypothalamic Dopamine;Tac1;Ghrh;Pnoc; Dat+and-; GABA Neuron;Hypothalamic Dopamine;Tac1;Ghrh;Pnoc; Dat+and-; GABA Neuron
+Hypothalamic GABA 1 Neuron;Hypothalamic GABA 1 Neuron
+Hypothalamic GABA 2 Neuron;Hypothalamic GABA 2 Neuron
+Hypothalamic GABA; Gucy1a3 Neuron;Hypothalamic GABA; Gucy1a3 Neuron
+Hypothalamic GABA;Pnoc;Tac2+and- Neuron;Hypothalamic GABA;Pnoc;Tac2+and- Neuron
+Hypothalamic Gad-low;Gnrh-and+ Neuron;Hypothalamic Gad-low;Gnrh-and+ Neuron
+Hypothalamic Gad1;Gad2;VGAT+and-;Pnoc Neuron;Hypothalamic Gad1;Gad2;VGAT+and-;Pnoc Neuron
+Hypothalamic Galanin Neuron;Hypothalamic Galanin Neuron
+Hypothalamic Ghrh-high;Th;Vglut2 Neuron;Hypothalamic Ghrh-high;Th;Vglut2 Neuron
+Hypothalamic Hcrt Neuron;Hypothalamic Hcrt Neuron
+Hypothalamic Hmit+and- Neuron;Hypothalamic Hmit+and- Neuron
+Hypothalamic Nms;VIP+and-; Avp-low+and-;circadian (SCH) Neuron;Hypothalamic Nms;VIP+and-; Avp-low+and-;circadian (SCH) Neuron
+Hypothalamic Npr2;Gm5595;4930422G04Rik;Tnr Neuron;Hypothalamic Npr2;Gm5595;4930422G04Rik;Tnr Neuron
+Hypothalamic Npvf Neuron;Hypothalamic Npvf Neuron
+Hypothalamic Npy-medium;Gad1;Gad2 Neuron;Hypothalamic Npy-medium;Gad1;Gad2 Neuron
+Hypothalamic Npy;Agrp (ARH) Neuron;Hypothalamic Npy;Agrp (ARH) Neuron
+Hypothalamic Nts;Gal;Pnoc;Tac2+and-;GABA Neuron;Hypothalamic Nts;Gal;Pnoc;Tac2+and-;GABA Neuron
+Hypothalamic Nts;Pnoc;Tac2+and-;GABA Neuron;Hypothalamic Nts;Pnoc;Tac2+and-;GABA Neuron
+Hypothalamic Otof;Lhx1+and- Neuron;Hypothalamic Otof;Lhx1+and- Neuron
+Hypothalamic Oxt;Avp-low Neuron;Hypothalamic Oxt;Avp-low Neuron
+Hypothalamic Oxt;Avp-low;Th;Cacna1H Neuron;Hypothalamic Oxt;Avp-low;Th;Cacna1H Neuron
+Hypothalamic Oxt;Avp-medium;Gad2-low Neuron;Hypothalamic Oxt;Avp-medium;Gad2-low Neuron
+Hypothalamic Oxt;Avp-medium;Th+and- PDYN+and Neuron;Hypothalamic Oxt;Avp-medium;Th+and- PDYN+and Neuron
+Hypothalamic Per2;circadian (SCH) Neuron;Hypothalamic Per2;circadian (SCH) Neuron
+Hypothalamic Pmch Neuron;Hypothalamic Pmch Neuron
+Hypothalamic Pomc+and- (ARH) Neuron;Hypothalamic Pomc+and- (ARH) Neuron
+Hypothalamic Qrfp Neuron;Hypothalamic Qrfp Neuron
+Hypothalamic Sst low-medium Neuron;Hypothalamic Sst low-medium Neuron
+Hypothalamic Sst-high;Cartpt;Galr1 Neuron;Hypothalamic Sst-high;Cartpt;Galr1 Neuron
+Hypothalamic Sst-medium;Cartpt Neuron;Hypothalamic Sst-medium;Cartpt Neuron
+Hypothalamic Th;Tac1;Ghrh;Vmat2-lowand- GABA Neuron;Hypothalamic Th;Tac1;Ghrh;Vmat2-lowand- GABA Neuron
+Hypothalamic Trh-high;Adcyap1;Cartpt Neuron;Hypothalamic Trh-high;Adcyap1;Cartpt Neuron
+Hypothalamic Trh-low Neuron;Hypothalamic Trh-low Neuron
+Hypothalamic Trh-medium Neuron;Hypothalamic Trh-medium Neuron
+Hypothalamic Vglut2 ;Col9a2 (PVH) Neuron;Hypothalamic Vglut2 ;Col9a2 (PVH) Neuron
+Hypothalamic Vglut2 A Neuron;Hypothalamic Vglut2 A Neuron
+Hypothalamic Vglut2;A930013F10Rik;Pou2f2 Neuron;Hypothalamic Vglut2;A930013F10Rik;Pou2f2 Neuron
+Hypothalamic Vglut2;Bdnf;Gad1 Neuron;Hypothalamic Vglut2;Bdnf;Gad1 Neuron
+Hypothalamic Vglut2;Cck;2AG;AEA;Npr2;Npy1r Neuron;Hypothalamic Vglut2;Cck;2AG;AEA;Npr2;Npy1r Neuron
+Hypothalamic Vglut2;Cnr1;Ninl;Rfx5;Zfp346 Neuron;Hypothalamic Vglut2;Cnr1;Ninl;Rfx5;Zfp346 Neuron
+Hypothalamic Vglut2;Cnr1;Npr2;Cacna1h Neuron;Hypothalamic Vglut2;Cnr1;Npr2;Cacna1h Neuron
+Hypothalamic Vglut2;Gad1-low;Crh-lowand- (VMH) Neuron;Hypothalamic Vglut2;Gad1-low;Crh-lowand- (VMH) Neuron
+Hypothalamic Vglut2;Gpr149 (PVH;VMH) Neuron;Hypothalamic Vglut2;Gpr149 (PVH;VMH) Neuron
+Hypothalamic Vglut2;Hcn1;6430411K18Rik Neuron;Hypothalamic Vglut2;Hcn1;6430411K18Rik Neuron
+Hypothalamic Vglut2;Morn4;Prrc2a Neuron;Hypothalamic Vglut2;Morn4;Prrc2a Neuron
+Hypothalamic Vglut2;Myt1;Lhx9 Neuron;Hypothalamic Vglut2;Myt1;Lhx9 Neuron
+Hypothalamic Vglut2;Penk;Oprk1  Neuron;Hypothalamic Vglut2;Penk;Oprk1  Neuron
+Hypothalamic Vglut2;Pgam;Snx12 Neuron;Hypothalamic Vglut2;Pgam;Snx12 Neuron
+Hypothalamic Vglut2;Prmt8;Ugdh (VMH) Neuron;Hypothalamic Vglut2;Prmt8;Ugdh (VMH) Neuron
+Hypothalamic Vglut2;Zfp458;Ppp1r12b;Cacna1e-highest Neuron;Hypothalamic Vglut2;Zfp458;Ppp1r12b;Cacna1e-highest Neuron
+Hypothalamic Vip;Grp+and-;circadian (SCH) Neuron;Hypothalamic Vip;Grp+and-;circadian (SCH) Neuron
+Int Pvalb;Int Pvalb
+Int1;Int1
+Int10;Int10
+Int11;Int11
+Int12;Int12
+Int13;Int13
+Int14;Int14
+Int15;Int15
+Int16;Int16
+Int2;Int2
+Int4;Int4
+Int5;Int5
+Int6;Int6
+Int7;Int7
+Int8;Int8
+Int9;Int9
+Lateral Neuroblasts 1;Lateral Neuroblasts 1
+Lateral Neuroblasts 2;Lateral Neuroblasts 2
+Mature oligodendrocytes 1;Mature oligodendrocytes 1
+Mature oligodendrocytes 2;Mature oligodendrocytes 2
+Mature oligodendrocytes 3;Mature oligodendrocytes 3
+Mature oligodendrocytes 4;Mature oligodendrocytes 4
+Mature oligodendrocytes 5;Mature oligodendrocytes 5
+Mature oligodendrocytes 6;Mature oligodendrocytes 6
+Medial Neuroblasts ;Medial Neuroblasts 
+Mediolateral Neuroblasts 1;Mediolateral Neuroblasts 1
+Mediolateral Neuroblasts 2;Mediolateral Neuroblasts 2
+Mediolateral Neuroblasts 3;Mediolateral Neuroblasts 3
+Mediolateral Neuroblasts 4;Mediolateral Neuroblasts 4
+Mediolateral Neuroblasts 5;Mediolateral Neuroblasts 5
+Medium Spiny Neuron D1R;Medium Spiny Neuron D1R
+Medium Spiny Neuron D2R;Medium Spiny Neuron D2R
+Mgl1;Mgl1
+Mgl2;Mgl2
+Myelin-forming oligodendrocytes 1;Myelin-forming oligodendrocytes 1
+Myelin-forming oligodendrocytes 2;Myelin-forming oligodendrocytes 2
+Neural Progenitors;Neural Progenitors
+Newly formed oligodendrocytes 1;Newly formed oligodendrocytes 1
+Newly formed oligodendrocytes 2;Newly formed oligodendrocytes 2
+Oculomotor and Trochlear nucleus embryonic neurons;Oculomotor and Trochlear nucleus embryonic neurons
+Oligodendrocyte Precursor;Oligodendrocyte Precursor
+Peric;Peric
+Pvm1;Pvm1
+Pvm2;Pvm2
+Radial glia like cells 1;Radial glia like cells 1
+Radial glia like cells 2;Radial glia like cells 2
+Radial glia like cells 3;Radial glia like cells 3
+Red nucleus embryonic neurons;Red nucleus embryonic neurons
+S1PyrDL;S1PyrDL
+S1PyrL23;S1PyrL23
+S1PyrL4;S1PyrL4
+S1PyrL5;S1PyrL5
+S1PyrL5a;S1PyrL5a
+S1PyrL6;S1PyrL6
+S1PyrL6b;S1PyrL6b
+Serotonergic Neuron;Serotonergic Neuron
+Striatal CHAT Interneuron;Striatal CHAT Interneuron
+Striatal Interneurons (other);Striatal Interneurons (other)
+Striatal Pvalb Interneuron;Striatal Pvalb Interneuron
+Striatal Sst Interneuron;Striatal Sst Interneuron
+SubPyr;SubPyr
+Vascular Leptomeningeal Cells;Vascular Leptomeningeal Cells
+Vend1;Vend1
+Vend2;Vend2
+Vsmc;Vsmc

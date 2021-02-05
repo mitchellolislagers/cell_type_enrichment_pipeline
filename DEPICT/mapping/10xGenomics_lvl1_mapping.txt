@@ -1,0 +1,16 @@
+Glutamatergic_neurons;Glutamatergic_neurons
+Neuroblasts_1;Neuroblasts_1
+Astrocytes_1;Astrocytes_1
+Neuroblasts_2;Neuroblasts_2
+Intermediate_progenitors;Intermediate_progenitors
+Enteric_glial_cells;Enteric_glial_cells
+Interneurons_1;Interneurons_1
+Neurons;Neurons
+Interneurons_2;Interneurons_2
+Vascular_endothelial_cells;Vascular_endothelial_cells
+Enteric_neurons;Enteric_neurons
+Cajal-Retzius_cells;Cajal-Retzius_cells
+Oligodendrocytes;Oligodendrocytes
+Astrocytes_2;Astrocytes_2
+Endothelial_cells;Endothelial_cells
+Microglia;Microglia
