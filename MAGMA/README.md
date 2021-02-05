@@ -21,6 +21,6 @@ To map rsids for SNPs without CHRPOS, 1kg .bim files were used.
 
 Reference data used for MAGMA analyses can be found [here](https://ctg.cncr.nl/software/MAGMA/ref_data/).
 
-Also see the [original repository](https://github.com/NathanSkene/MAGMA_Celltyping)
+Also see the [original MAGMA Celltyping repository](https://github.com/NathanSkene/MAGMA_Celltyping)
 
 [Skene, et al. Genetic identification of brain cell types underlying schizophrenia. Nature Genetics, 2018.](https://www.nature.com/articles/s41588-018-0129-5)
