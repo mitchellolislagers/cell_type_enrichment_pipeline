@@ -17,7 +17,7 @@ Because summary statistics are not uniformly released, preparation differs per s
 ```MAGMA_v108_celltype_analysis_SCZ_all_QC.R```
 
 ### Reference files
-To map rsids for SNPs withour CHRPOS, 1kg .bim files were used.
+To map rsids for SNPs without CHRPOS, 1kg .bim files were used.
 
 Reference data used for MAGMA analyses can be found [here](https://ctg.cncr.nl/software/MAGMA/ref_data/).
 
