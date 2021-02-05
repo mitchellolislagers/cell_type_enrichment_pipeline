@@ -24,3 +24,6 @@
 - ```make_annotation_files```
 - ```calculate_ld_scores```
 - ```partition_h2```
+
+### More info
+For more information regarding LDSC, see the [original repository](https://github.com/bulik/ldsc/).
