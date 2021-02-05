@@ -17,6 +17,8 @@ Because summary statistics are not uniformly released, preparation differs per s
 ```MAGMA_v108_celltype_analysis_SCZ_all_QC.R```
 
 ### Reference files
-Reference data used for MAGMA analyses can be found [here](https://ctg.cncr.nl/software/MAGMA/ref_data/)
+Reference data used for MAGMA analyses can be found [here](https://ctg.cncr.nl/software/MAGMA/ref_data/).
+
 Also see the [original repository](https://github.com/NathanSkene/MAGMA_Celltyping)
+
 [Skene, et al. Genetic identification of brain cell types underlying schizophrenia. Nature Genetics, 2018.](https://www.nature.com/articles/s41588-018-0129-5)
