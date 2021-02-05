@@ -5,7 +5,7 @@ Because summary statistics are not uniformly released, preparation differs per s
 
 ```prepare_MAGMA_sumstats.sh```
 
-### (2) (optional) Sensitivity analyses (HapMap3 restriction and MHC exlcusion)
+### (2) (optional) Sensitivity analyses (HapMap3 restriction and MHC exclusion)
 ```QC_MAGMA.sh```
 
 ### (3) Run MAGMA Top 10% mode and Linear mode using 10x Genomics and KI level 1 scRNA data
