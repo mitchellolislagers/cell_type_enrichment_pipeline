@@ -407,7 +407,7 @@ sed -e '1s/SNP/UNIQUE_ID/' -e '1s/RSID/SNP/' -e '1s/POS/BP/' ${magma_sums_dir}/n
 awk -v OFS="\t" '{print $1,$3,$4,$5,$6,$2,$7,$8,$9,$10,$11,$12}' ${magma_sums_dir}/neuroticism/renamed_sumstats_neuroticism_ctg_format.txt > ${magma_sums_dir}/neuroticism/ordered_renamed_sumstats_neuroticism_ctg_format.txt 
 cp ${magma_sums_dir}/neuroticism/ordered_renamed_sumstats_neuroticism_ctg_format.txt ${magma_sums_dir}/MAGMA_sumstats/neuroticism_MAGMA.txt
 
-## ORGANIZE ALL SUMSTAST ##
+## ORGANIZE ALL SUMSTATS ##
 for gwas in ${magma_sums_dir}/*
 do
 	if [ $gwas == "${magma_sums_dir}/MAGMA_sumstats" ] || [ $gwas == "${magma_sums_dir}/GWAS" ] ; then
