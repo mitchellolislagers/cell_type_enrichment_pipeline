@@ -6,6 +6,7 @@ Last update: 05 Feb 2020
 - [LDSC](https://github.com/bulik/ldsc)
 - [MAGMA](https://ctg.cncr.nl/software/magma)
 - [DEPICT](https://data.broadinstitute.org/mpg/depict/depict_download/bundles/)
+- [Specificity metrices of scRNA-seq data](https://github.com/mitchellolislagers/cell_type_enrichment_pipeline/tree/master/scRNA_datasets).
 
 ### The pipeline
 All of the code neccesary to reproduce our findings are found within this repository.
