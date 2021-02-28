@@ -200,7 +200,7 @@ def reformat_data():
 
 def main():
 	# prepare_data()
-	sc_data=sc.read_10x_h5(filename_h5ad_qc_markers, genome)
+	sc_data=sc.read_h5ad(filename_h5ad_qc_markers)
 	reformat_data()
 
 if __name__ == '__main__':
