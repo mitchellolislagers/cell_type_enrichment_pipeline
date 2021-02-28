@@ -1,5 +1,8 @@
 ## Running the 10x Genomics cell type annotation pipeline
 
+### (0) Requirements
+Code was run using Python version 3.7 and requires the complete installation of the [SCANPY](https://scanpy.readthedocs.io/en/stable/) library to function properly. A cluster computing environment is highly recommended since the large transformations of data matrices requires a lot of memory.
+
 ### (1) Extract compressed data to .h5ad object
 H5AD data objects are a SCANPY implementation of the [hdf5 file type](https://www.h5py.org/), which enables the storage of large transcriptomics datasets together with all forms of QC, annotation and results.
 
